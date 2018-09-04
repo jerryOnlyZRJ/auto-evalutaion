@@ -10,7 +10,7 @@
 	},
 	"content_scripts": [{
 		"matches": [
-			"*://*/*"
+			"http://210.31.48.12/*"
 		],
 		"js": [
 			"background.js"
