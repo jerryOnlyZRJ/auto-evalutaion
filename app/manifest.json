@@ -1,0 +1,19 @@
+{
+	"name": "Auto Eva",
+	"manifest_version": 2,
+	"version": "1.0.0",
+	"description": "Auto evalutation",
+	"browser_action": {
+		"default_icon": "avatar.png",
+		"default_title": "Auto Eva",
+		"default_popup": "popup.html"
+	},
+	"content_scripts": [{
+		"matches": [
+			"*://*/*"
+		],
+		"js": [
+			"background.js"
+		]
+	}]
+}

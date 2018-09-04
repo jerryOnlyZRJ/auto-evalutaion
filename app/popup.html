@@ -1,0 +1,54 @@
+<meta charset="utf-8">
+<style type="text/css">
+.tool-container {
+    width: 20rem;
+    height: 8rem;
+}
+
+.header {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.header::after {
+    content: '';
+    display: block;
+    height: 1px;
+    margin-top: 5px;
+    background: linear-gradient(90deg, #fff, #ccc 20%, #ccc 80%, #fff);
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    line-height: 1.5;
+    background: #188eee;
+    border: none;
+    color: #fff;
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border-radius: 2.5rem;
+    outline: none;
+    transition: background .3s;
+}
+
+.btn:nth-child(2) {
+    margin-left: 1rem;
+}
+
+.btn:active {
+    background: #0562ad;
+}
+</style>
+<div class="tool-container">
+    <header>
+        <h1 class="header">Auto Eva</h1>
+    </header>
+    <main>
+        <button class="btn">打开网页</button>
+        <button class="btn">一键评教</button>
+    </main>
+</div>
