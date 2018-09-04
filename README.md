@@ -8,7 +8,7 @@ PPSUC正方教务管理系统一键评教工具
 
 **使用步骤**：
 
-* 1.下载插件：(点击首页的auto-evaluation.crx文件 -> 点击 `View Raw` ，文件会自动下载到你的电脑上)
+* 1.下载插件：(点击首页的auto-evaluation.crx文件(或直接打开文件下载链接：[下载页面](https://github.com/jerryOnlyZRJ/auto-evalutaion/blob/master/auto-evaluation.crx)) -> 点击 `View Raw` ，文件会自动下载到你的电脑上)
 
 ![download-index](images/download-index.png)
 
