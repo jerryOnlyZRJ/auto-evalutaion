@@ -10,7 +10,7 @@ PPSUC正方教务管理系统一键评教工具
 
 * 1.下载插件：(点击首页的auto-evaluation.crx文件 -> 点击 `View Raw` ，文件会自动下载到你的电脑上)
 
-![download-index](\images/download-index.png)
+![download-index](images/download-index.png)
 
 ![download](images/download.png)
 
