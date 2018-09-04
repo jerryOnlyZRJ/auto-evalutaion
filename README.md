@@ -23,3 +23,5 @@ PPSUC正方教务管理系统一键评教工具
 ![install-extension](images/install-extension.png)
 
 * 4.打开评价页面，自动完成评教。
+
+![auto-result](images/auto-result.png)
