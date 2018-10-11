@@ -12,5 +12,5 @@ function autoEva() {
 }
 
 document.querySelectorAll('.sub')[2].querySelector('li:nth-child(3)').addEventListener('click', function() {
-	setTimeout(autoEva, 1000)
+	setTimeout(autoEva, 500)
 })
